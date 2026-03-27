@@ -1,5 +1,4 @@
-# pagila-hw3
-[![](https://github.com/mikeizbicki/pagila-hw3/workflows/tests/badge.svg)](https://github.com/mikeizbicki/pagila-hw3/actions?query=workflow%3Atests)
+# pagila-hw3 [![](https://github.com/sophycodes/pagila-hw3/workflows/tests/badge.svg)](https://github.com/sophycodes/pagila-hw3/actions?query=workflow%3Atests)
 
 ## Tasks
 
